@@ -1,0 +1,10 @@
+.banner-image {
+    background-size: cover;
+    background-position: center;
+    height: 300px; /* Adjust as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
